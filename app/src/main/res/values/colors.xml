@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#cccccc</color>
+    <color name="cameract_light_blue">#293E72</color>
+    <color name="cameract_blue">#293E72</color>
+    <color name="italy_white">#F1F2F1</color>
+    <color name="italy_green">#009246</color>
+    <color name="italy_red">#CE2B37</color>
+    <color name="black">#000000</color>
+    <color name="grey_700">#646464</color>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+<EditTextPreference
+    android:key="@string/pref_legislature_key"
+    android:title="@string/pref_legislature_title"
+    android:defaultValue="@string/pref_legislature_default"
+    android:inputType="text"
+    android:singleLine="true"/>
+
+
+</PreferenceScreen>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">CamerActs</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_legislature_key" translatable="false">legislature</string>
+    <string name="pref_legislature_title">Legislature</string>
+    <string name="pref_legislature_default" translatable="false">17</string>
+
+    <string name="view_data_camera">Camera OpenData</string>
+
+
+    <!-- SyncAdapter related -->
+    <string name="sync_account_type">cameracts.laquysoft.com</string>
+    <string name="content_authority">com.laquysoft.cameracts</string>
+
+
+
+    <string name="pref_last_sync">last_sync</string>
+    <string name="voters">Voters</string>
+    <string name="format_favour">F: <xliff:g id="favour">%s</xliff:g> Votes</string>
+    <string name="format_against">Ag: <xliff:g id="against">%s</xliff:g> Votes</string>
+    <string name="format_abstained">Ab: <xliff:g id="abstained">%s</xliff:g> Votes</string>
+
+</resources>
